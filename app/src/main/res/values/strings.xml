@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Helpuevangelize.com</string>
+
+    <string name="nextBtn">Continue</string>
+
+    <string name="question_1">Question 1</string>
+    <string name="question_2">Question 2</string>
+    <string name="question_3">Question 3</string>
+    <string name="question_4">Question 4</string>
+    <string name="question_5">Question 5</string>
+    <string name="question_6">Question 6</string>
+    <string name="question_7">Question 7</string>
+    <string name="question_8">Question 8</string>
+    <string name="question_9">Question 9</string>
+    <string name="question_10">Question 10</string>
+    <string name="question_11">Question 11</string>
+    <string name="question_12">Question 12</string>
+    <string name="question_13">Question 13</string>
+    <string name="question_14">Question 14</string>
+    <string name="question_15">Question 15</string>
+    <string name="question_16">Question 16</string>
+    <string name="question_17">Question 17</string>
+    <string name="question_18">Question 18</string>
+
+    <string name="one">Do you have a Bible in your Home ?</string>
+    <string name="two">Do you study your BIBLE ?</string>
+    <string name="three">Do you find the BIBLE hard Understand ?</string>
+    <string name="four">Does God hear a sinner\'s prayer?</string>
+    <string name="five">Did God give a plan for redeeming man?</string>
+    <string name="six">What is the plan?</string>
+    <string name="seven">Who was the first man God created and who was his wife?</string>
+    <string name="eighteen">Would you like to know the answer of all the questions that you have been asked in the interview and be able to tell it to others?</string>
+    <string name="seventeen">Do you know and understand the whole Bible from Genesis to the book of Revelations?</string>
+    <string name="sixteen">What does the word "repent" mean to you in a few words?</string>
+    <string name="fifteen">Is a sinner saved?</string>
+    <string name="fourteen">What does the work "Baptism" mean to you?</string>
+    <string name="thirteen">Do you believe that the Lord agrees with all these different denominations in the world today?</string>
+    <string name="tweleve">Which church or churches is Christ\'s Church?</string>
+    <string name="eleven">Did He ever build it or them?</string>
+    <string name="ten">How many churches did Jesus promise to build?</string>
+    <string name="nine">Do you believe that Jesus was born of virgin?</string>
+    <string name="eight">How many major divisions is the Bible divided into?</string>
+    <string name="enter_your_email">Enter your email...</string>
+    <string name="enter_your_name">Enter your Name...</string>
+    <string name="take_the_survey">Take the Survey</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="after_he_is_baptized">After he is baptized</string>
+    <string name="q15radio2">While he is baptized</string>
+    <string name="q15radio1">Before he is baptized</string>
+    <string name="q14radio1">Sprinkling</string>
+    <string name="q14radio2">Pouring</string>
+    <string name="q14radio3">Burial</string>
+    <string name="q8radio1">2</string>
+    <string name="q8radio2">4</string>
+    <string name="q8radio3">6</string>
+    <string name="q2radio6">Never</string>
+    <string name="q2radio5">Only in times of trouble</string>
+    <string name="q2radio4">Once a Month</string>
+    <string name="q2radio3">Once a week</string>
+    <string name="q2radio2">3 times a Week</string>
+    <string name="q2radio1">Daily</string>
+    <string name="hint">Enter your Answer here...</string>
+
+</resources>
